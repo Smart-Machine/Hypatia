@@ -1,6 +1,6 @@
 # Hypatia #
 
-![Hypatia](https://github.com/Smart-Machine/Hypatia/Hypatia?raw=true)
+![Hypatia](Hypatia)
 
 **Hypatia** is a programming language, written in Golang. 
 
